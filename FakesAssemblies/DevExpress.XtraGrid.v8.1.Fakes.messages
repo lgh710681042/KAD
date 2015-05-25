@@ -1,0 +1,314 @@
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Base.ColumnView 生成存根: 类型包含会导致编译错误的过时成员。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.BandedGrid.ViewInfo.NullAdvBandedGridViewInfo 生成存根: 类型对 exported or assembly(DevExpress.XtraGrid.v8.1.Fakes) 不可见。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.BandedGrid.BandedGridState 生成存根: 类型是一个值类型。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.BandedGrid.BandHeaderCustomDrawEventHandler 生成存根: 类型已密封。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.BandedGrid.BandEventHandler 生成存根: 类型已密封。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.BandedGrid.ViewInfo.NullBandedGridViewInfo 生成存根: 类型对 exported or assembly(DevExpress.XtraGrid.v8.1.Fakes) 不可见。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.BandedGrid.ViewInfo.BandedGridHitTest 生成存根: 类型是一个值类型。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Base.Handler.DoubleClickHandler 生成存根: 类型已密封。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Base.GridRowCellState 生成存根: 类型是一个值类型。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Base.ScrollVisibility 生成存根: 类型是一个值类型。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Base.SynchronizationMode 生成存根: 类型是一个值类型。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Base.GridAnimationType 生成存根: 类型是一个值类型。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Base.CustomDrawEventHandler 生成存根: 类型已密封。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Base.ShowFilterPanelMode 生成存根: 类型是一个值类型。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Base.ShowButtonModeEnum 生成存根: 类型是一个值类型。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Base.UpdateRowResult 生成存根: 类型是一个值类型。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Base.MethodIntInvoker 生成存根: 类型已密封。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Base.ValidateRowEventHandler 生成存根: 类型已密封。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Base.RowAllowEventHandler 生成存根: 类型已密封。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Base.RowEventHandler 生成存根: 类型已密封。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Base.RowObjectEventHandler 生成存根: 类型已密封。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Base.RowCellAlignmentEventHandler 生成存根: 类型已密封。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Base.InvalidRowExceptionEventHandler 生成存根: 类型已密封。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Base.CustomDrawObjectEventHandler 生成存根: 类型已密封。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Base.RowCellCustomDrawEventHandler 生成存根: 类型已密封。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Base.RowObjectCustomDrawEventHandler 生成存根: 类型已密封。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Base.CellValueChangedEventHandler 生成存根: 类型已密封。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Base.FocusedRowChangedEventHandler 生成存根: 类型已密封。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Base.FocusedColumnChangedEventHandler 生成存根: 类型已密封。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Base.FilterControlEventHandler 生成存根: 类型已密封。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Base.CustomColumnDisplayTextEventHandler 生成存根: 类型已密封。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Base.CustomColumnSortEventHandler 生成存根: 类型已密封。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Base.CustomColumnDataEventHandler 生成存根: 类型已密封。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Base.ColumnEventHandler 生成存根: 类型已密封。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Base.RowFilterEventHandler 生成存根: 类型已密封。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Base.DragObjectDropEventHandler 生成存根: 类型已密封。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Base.DragObjectOverEventHandler 生成存根: 类型已密封。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Base.DragObjectStartEventHandler 生成存根: 类型已密封。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Base.FilterItemComparer 生成存根: 类型对 exported or assembly(DevExpress.XtraGrid.v8.1.Fakes) 不可见。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Blending.AlphaStyleEditor 生成存根: 类型对 exported or assembly(DevExpress.XtraGrid.v8.1.Fakes) 不可见。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Blending.UIAlphaStyleEditor 生成存根: 类型对 exported or assembly(DevExpress.XtraGrid.v8.1.Fakes) 不可见。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Blending.CheckSerializeEventHandler 生成存根: 类型已密封。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Card.CardCaptionCustomDrawEventHandler 生成存根: 类型已密封。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Card.CardCaptionImageEventHandler 生成存根: 类型已密封。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Card.ViewInfo.NullCardViewInfo 生成存根: 类型对 exported or assembly(DevExpress.XtraGrid.v8.1.Fakes) 不可见。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Card.ViewInfo.CardHitTest 生成存根: 类型是一个值类型。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Card.CardState 生成存根: 类型是一个值类型。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Card.CardVisibleState 生成存根: 类型是一个值类型。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Design.DesignerGroupType 生成存根: 类型是一个值类型。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Export.ExportPhase 生成存根: 类型是一个值类型。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Export.ProgressEventHandler 生成存根: 类型已密封。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.FilterEditor.GridFilterControl 生成存根: 类型对 exported or assembly(DevExpress.XtraGrid.v8.1.Fakes) 不可见。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Columns.AutoFilterCondition 生成存根: 类型是一个值类型。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Columns.FilterPopupMode 生成存根: 类型是一个值类型。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Columns.ColumnFilterKind 生成存根: 类型是一个值类型。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Columns.ColumnFilterType 生成存根: 类型是一个值类型。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Columns.ColumnFilterInfoTypeConverter 生成存根: 类型对 exported or assembly(DevExpress.XtraGrid.v8.1.Fakes) 不可见。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Columns.FixedStyle 生成存根: 类型是一个值类型。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.ViewFocusEventHandler 生成存根: 类型已密封。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.ViewOperationEventArgs 生成存根: 类型没有系列可见的构造函数。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.ViewOperationEventHandler 生成存根: 类型已密封。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.ObsoleteText 生成存根: 类型对 exported or assembly(DevExpress.XtraGrid.v8.1.Fakes) 不可见。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.GridDesignTimeHints 生成存根: 类型对 exported or assembly(DevExpress.XtraGrid.v8.1.Fakes) 不可见。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Drawing.GridColumnLocation 生成存根: 类型是一个值类型。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Layout.Designer.DesignerPropertyGrid 生成存根: 类型对 exported or assembly(DevExpress.XtraGrid.v8.1.Fakes) 不可见。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Layout.Designer.DesignerLayoutTreeView 生成存根: 类型对 exported or assembly(DevExpress.XtraGrid.v8.1.Fakes) 不可见。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Layout.Designer.DesignerHiddenItemsList 生成存根: 类型对 exported or assembly(DevExpress.XtraGrid.v8.1.Fakes) 不可见。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Layout.Designer.DesignerHiddenItemsListPainter 生成存根: 类型对 exported or assembly(DevExpress.XtraGrid.v8.1.Fakes) 不可见。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Layout.LayoutViewRenameItemManager 生成存根: 类型对 exported or assembly(DevExpress.XtraGrid.v8.1.Fakes) 不可见。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Layout.LayoutViewComponentsUpdateHelper 生成存根: 类型对 exported or assembly(DevExpress.XtraGrid.v8.1.Fakes) 不可见。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Layout.Frames.WaitCursor 生成存根: 类型对 exported or assembly(DevExpress.XtraGrid.v8.1.Fakes) 不可见。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Layout.LayoutViewState 生成存根: 类型是一个值类型。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Layout.Events.LayoutViewCardStyleEventHandler 生成存根: 类型已密封。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Layout.Events.LayoutViewFieldCaptionStyleEventHandler 生成存根: 类型已密封。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Layout.Events.LayoutViewCustomRowCellEditEventHandler 生成存根: 类型已密封。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Layout.Events.LayoutViewCardCaptionImageEventHandler 生成存根: 类型已密封。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Layout.Events.LayoutViewFieldCaptionImageEventHandler 生成存根: 类型已密封。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Layout.Events.LayoutViewCustomCardLayoutEventHandler 生成存根: 类型已密封。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Layout.Events.LayoutViewVisibleRecordIndexChangedEventHandler 生成存根: 类型已密封。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Layout.DelayedOperation 生成存根: 类型已密封。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Layout.LayoutItemDifferenceType 生成存根: 类型是一个值类型。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Layout.Designer.UniqueItemNameFinder 生成存根: 类型对 exported or assembly(DevExpress.XtraGrid.v8.1.Fakes) 不可见。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Layout.Designer.FieldPreferredWidthSetter 生成存根: 类型对 exported or assembly(DevExpress.XtraGrid.v8.1.Fakes) 不可见。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Layout.Designer.FieldPreferredWidthResetter 生成存根: 类型对 exported or assembly(DevExpress.XtraGrid.v8.1.Fakes) 不可见。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Layout.Designer.DesignerControlModifiedHandler 生成存根: 类型已密封。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Layout.Designer.CustomizationStringID 生成存根: 类型是一个值类型。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Layout.Designer.RuntimeCustomizationLocalizeHelper 生成存根: 类型对 exported or assembly(DevExpress.XtraGrid.v8.1.Fakes) 不可见。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Layout.FieldTextAlignMode 生成存根: 类型是一个值类型。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Layout.CardsAlignment 生成存根: 类型是一个值类型。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Layout.LayoutViewMode 生成存根: 类型是一个值类型。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Layout.LayoutCardArrangeRule 生成存根: 类型是一个值类型。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Layout.LayoutViewPrintOptionsFlags 生成存根: 类型是一个值类型。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Layout.LayoutViewPrintMode 生成存根: 类型是一个值类型。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Layout.ViewInfo.ColumnNameFinder 生成存根: 类型对 exported or assembly(DevExpress.XtraGrid.v8.1.Fakes) 不可见。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Layout.ViewInfo.ItemNameFinder 生成存根: 类型对 exported or assembly(DevExpress.XtraGrid.v8.1.Fakes) 不可见。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Layout.ViewInfo.FieldInfoResetter 生成存根: 类型对 exported or assembly(DevExpress.XtraGrid.v8.1.Fakes) 不可见。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Layout.ViewInfo.CardCollapsingMode 生成存根: 类型是一个值类型。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Layout.ViewInfo.NullLayoutViewInfo 生成存根: 类型对 exported or assembly(DevExpress.XtraGrid.v8.1.Fakes) 不可见。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Layout.ViewInfo.LayoutViewHitTest 生成存根: 类型是一个值类型。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Localization.GridStringId 生成存根: 类型是一个值类型。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.LocalizationRes 生成存根: 类型对 exported or assembly(DevExpress.XtraGrid.v8.1.Fakes) 不可见。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraEditors.Repository.GridLookUpViewType 生成存根: 类型是一个值类型。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Grid.GridMenuType 生成存根: 类型是一个值类型。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Grid.GridMenuItemClickEventHandler 生成存根: 类型已密封。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Grid.DetailExpandButtonMode 生成存根: 类型是一个值类型。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Grid.GridMultiSelectMode 生成存根: 类型是一个值类型。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Grid.DataMasterRowEventHandler 生成存根: 类型已密封。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Grid.InitNewRowEventHandler 生成存根: 类型已密封。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Grid.RowHeightEventHandler 生成存根: 类型已密封。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Grid.FooterCellCustomDrawEventHandler 生成存根: 类型已密封。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Grid.ColumnHeaderCustomDrawEventHandler 生成存根: 类型已密封。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Grid.RowIndicatorCustomDrawEventHandler 生成存根: 类型已密封。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Grid.GridMenuEventHandler 生成存根: 类型已密封。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Grid.MasterRowEmptyEventHandler 生成存根: 类型已密封。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Grid.MasterRowCanExpandEventHandler 生成存根: 类型已密封。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Grid.CustomMasterRowEventHandler 生成存根: 类型已密封。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Grid.MasterRowGetLevelDefaultViewEventHandler 生成存根: 类型已密封。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Grid.MasterRowGetChildListEventHandler 生成存根: 类型已密封。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Grid.MasterRowGetRelationNameEventHandler 生成存根: 类型已密封。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Grid.MasterRowGetRelationCountEventHandler 生成存根: 类型已密封。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Grid.CellMergeEventHandler 生成存根: 类型已密封。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Grid.GroupLevelStyleEventHandler 生成存根: 类型已密封。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Grid.RowCellStyleEventHandler 生成存根: 类型已密封。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Grid.RowStyleEventHandler 生成存根: 类型已密封。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Grid.CustomRowCellEditEventHandler 生成存根: 类型已密封。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Grid.FilterPopupListBoxEventHandler 生成存根: 类型已密封。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Grid.CalcPreviewTextEventHandler 生成存根: 类型已密封。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Grid.CustomFilterDialogEventHandler 生成存根: 类型已密封。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Grid.ViewInfo.NullGridViewInfo 生成存根: 类型对 exported or assembly(DevExpress.XtraGrid.v8.1.Fakes) 不可见。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Grid.ViewInfo.ScrollBarPresence 生成存根: 类型是一个值类型。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Grid.ViewInfo.GridColumnInfoType 生成存根: 类型是一个值类型。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Grid.ViewInfo.GridHitTest 生成存根: 类型是一个值类型。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Grid.ScrollStyleFlags 生成存根: 类型是一个值类型。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Grid.DrawFocusRectStyle 生成存根: 类型是一个值类型。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Grid.GridState 生成存根: 类型是一个值类型。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Grid.RowVisibleState 生成存根: 类型是一个值类型。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Grid.GroupFooterShowMode 生成存根: 类型是一个值类型。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Grid.NewItemRowPosition 生成存根: 类型是一个值类型。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Grid.GroupDrawMode 生成存根: 类型是一个值类型。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Grid.GridRowCollection 生成存根: 类型没有系列可见的构造函数。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Filter.Parser.ExpressionOperators 生成存根: 类型是一个值类型。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.SummaryItemField 生成存根: 类型是一个值类型。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.ShouldSerializeSummaryItemEventHandler 生成存根: 类型已密封。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 <PrivateImplementationDetails>{7F7D2816-D4FB-4AF9-B5F9-7E0BB84447B0} 生成存根: 类型不受支持，因为存在于内部限制。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Dragging.GridDragManager+DropPosition 生成填充码: 类型是一个枚举。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Base.BaseViewPainter+CustomEventCall 生成填充码: 类型是一个委托。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Base.ColumnView+ColumnGroupSortIndexComparer 生成填充码: 类型对 exported or assembly(DevExpress.XtraGrid.v8.1.Fakes) 不可见。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Base.ColumnView+ColumnVisibleIndexSorter 生成填充码: 类型对 exported or assembly(DevExpress.XtraGrid.v8.1.Fakes) 不可见。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Grid.IGridDesignTime 生成填充码: 类型是一个接口。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Grid.IGridLookUp 生成填充码: 类型是一个接口。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Grid.GridView+ColumnIndexesComparer 生成填充码: 类型对 exported or assembly(DevExpress.XtraGrid.v8.1.Fakes) 不可见。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Grid.GridView+GridSummaryComparer 生成填充码: 类型对 exported or assembly(DevExpress.XtraGrid.v8.1.Fakes) 不可见。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.BandedGrid.BandedGridView+BandVisibleIndexSorter 生成填充码: 类型对 exported or assembly(DevExpress.XtraGrid.v8.1.Fakes) 不可见。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.BandedGrid.BandedGridView+RootBandIndexSorter 生成填充码: 类型对 exported or assembly(DevExpress.XtraGrid.v8.1.Fakes) 不可见。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.BandedGrid.AdvBandedGridView+BandedColumnRowIndexComparer 生成填充码: 类型对 exported or assembly(DevExpress.XtraGrid.v8.1.Fakes) 不可见。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.BandedGrid.ViewInfo.NullAdvBandedGridViewInfo 生成填充码: 类型对 exported or assembly(DevExpress.XtraGrid.v8.1.Fakes) 不可见。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Columns.GridColumn+ColumnFormatInfo 生成填充码: 类型对 exported or assembly(DevExpress.XtraGrid.v8.1.Fakes) 不可见。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.BandedGrid.BandedGridState 生成填充码: 类型是一个枚举。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.BandedGrid.BandHeaderCustomDrawEventHandler 生成填充码: 类型是一个委托。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.BandedGrid.BandEventHandler 生成填充码: 类型是一个委托。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.BandedGrid.ViewInfo.NullBandedGridViewInfo 生成填充码: 类型对 exported or assembly(DevExpress.XtraGrid.v8.1.Fakes) 不可见。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.BandedGrid.ViewInfo.BandedGridHitTest 生成填充码: 类型是一个枚举。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Accessibility.CardViewAccessibleObject+CardViewDataPanel 生成填充码: 类型对 exported or assembly(DevExpress.XtraGrid.v8.1.Fakes) 不可见。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Accessibility.GridViewAccessibleObject+GridViewDataPanel 生成填充码: 类型对 exported or assembly(DevExpress.XtraGrid.v8.1.Fakes) 不可见。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Accessibility.GridViewAccessibleObject+GridViewHeaderPanel 生成填充码: 类型对 exported or assembly(DevExpress.XtraGrid.v8.1.Fakes) 不可见。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Base.Handler.DoubleClickHandler 生成填充码: 类型是一个委托。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Base.GridRowCellState 生成填充码: 类型是一个枚举。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Base.ScrollVisibility 生成填充码: 类型是一个枚举。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Base.SynchronizationMode 生成填充码: 类型是一个枚举。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Base.GridAnimationType 生成填充码: 类型是一个枚举。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Base.CustomDrawEventHandler 生成填充码: 类型是一个委托。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Base.ShowFilterPanelMode 生成填充码: 类型是一个枚举。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Base.ShowButtonModeEnum 生成填充码: 类型是一个枚举。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Base.UpdateRowResult 生成填充码: 类型是一个枚举。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Base.MethodIntInvoker 生成填充码: 类型是一个委托。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Base.ValidateRowEventHandler 生成填充码: 类型是一个委托。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Base.RowAllowEventHandler 生成填充码: 类型是一个委托。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Base.RowEventHandler 生成填充码: 类型是一个委托。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Base.RowObjectEventHandler 生成填充码: 类型是一个委托。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Base.RowCellAlignmentEventHandler 生成填充码: 类型是一个委托。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Base.InvalidRowExceptionEventHandler 生成填充码: 类型是一个委托。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Base.CustomDrawObjectEventHandler 生成填充码: 类型是一个委托。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Base.RowCellCustomDrawEventHandler 生成填充码: 类型是一个委托。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Base.RowObjectCustomDrawEventHandler 生成填充码: 类型是一个委托。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Base.CellValueChangedEventHandler 生成填充码: 类型是一个委托。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Base.FocusedRowChangedEventHandler 生成填充码: 类型是一个委托。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Base.FocusedColumnChangedEventHandler 生成填充码: 类型是一个委托。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Base.FilterControlEventHandler 生成填充码: 类型是一个委托。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Base.CustomColumnDisplayTextEventHandler 生成填充码: 类型是一个委托。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Base.CustomColumnSortEventHandler 生成填充码: 类型是一个委托。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Base.CustomColumnDataEventHandler 生成填充码: 类型是一个委托。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Base.ColumnEventHandler 生成填充码: 类型是一个委托。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Base.RowFilterEventHandler 生成填充码: 类型是一个委托。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Base.DragObjectDropEventHandler 生成填充码: 类型是一个委托。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Base.DragObjectOverEventHandler 生成填充码: 类型是一个委托。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Base.DragObjectStartEventHandler 生成填充码: 类型是一个委托。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.IXtraList 生成填充码: 类型是一个接口。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Base.MRUFilterPopup+ViewFilterItem 生成填充码: 类型对 exported or assembly(DevExpress.XtraGrid.v8.1.Fakes) 不可见。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Base.FilterItemComparer 生成填充码: 类型对 exported or assembly(DevExpress.XtraGrid.v8.1.Fakes) 不可见。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Blending.AlphaStyleEditor 生成填充码: 类型对 exported or assembly(DevExpress.XtraGrid.v8.1.Fakes) 不可见。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Blending.UIAlphaStyleEditor 生成填充码: 类型对 exported or assembly(DevExpress.XtraGrid.v8.1.Fakes) 不可见。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Blending.CheckSerializeEventHandler 生成填充码: 类型是一个委托。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Card.CardCaptionCustomDrawEventHandler 生成填充码: 类型是一个委托。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Card.CardCaptionImageEventHandler 生成填充码: 类型是一个委托。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Card.ViewInfo.NullCardViewInfo 生成填充码: 类型对 exported or assembly(DevExpress.XtraGrid.v8.1.Fakes) 不可见。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Card.ViewInfo.CardHitTest 生成填充码: 类型是一个枚举。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Card.CardState 生成填充码: 类型是一个枚举。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Card.CardVisibleState 生成填充码: 类型是一个枚举。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Design.DesignerGroupType 生成填充码: 类型是一个枚举。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Export.ExportPhase 生成填充码: 类型是一个枚举。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Export.ProgressEventHandler 生成填充码: 类型是一个委托。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.FilterEditor.GridFilterControl 生成填充码: 类型对 exported or assembly(DevExpress.XtraGrid.v8.1.Fakes) 不可见。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Columns.AutoFilterCondition 生成填充码: 类型是一个枚举。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Columns.FilterPopupMode 生成填充码: 类型是一个枚举。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Columns.ColumnFilterKind 生成填充码: 类型是一个枚举。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Columns.ColumnFilterType 生成填充码: 类型是一个枚举。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Columns.ColumnFilterInfoTypeConverter 生成填充码: 类型对 exported or assembly(DevExpress.XtraGrid.v8.1.Fakes) 不可见。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Columns.FixedStyle 生成填充码: 类型是一个枚举。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Columns.GridColumnFormatInfo+AllowParseEventHandler 生成填充码: 类型是一个委托。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Helpers.IViewController 生成填充码: 类型是一个接口。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.ViewFocusEventHandler 生成填充码: 类型是一个委托。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.ViewOperationEventHandler 生成填充码: 类型是一个委托。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.ObsoleteText 生成填充码: 类型对 exported or assembly(DevExpress.XtraGrid.v8.1.Fakes) 不可见。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.GridDesignTimeHints 生成填充码: 类型对 exported or assembly(DevExpress.XtraGrid.v8.1.Fakes) 不可见。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Drawing.GridColumnLocation 生成填充码: 类型是一个枚举。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Layout.Designer.DesignerPropertyGrid 生成填充码: 类型对 exported or assembly(DevExpress.XtraGrid.v8.1.Fakes) 不可见。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Layout.Designer.DesignerLayoutTreeView 生成填充码: 类型对 exported or assembly(DevExpress.XtraGrid.v8.1.Fakes) 不可见。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Layout.Designer.DesignerHiddenItemsList 生成填充码: 类型对 exported or assembly(DevExpress.XtraGrid.v8.1.Fakes) 不可见。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Layout.Designer.DesignerHiddenItemsListPainter 生成填充码: 类型对 exported or assembly(DevExpress.XtraGrid.v8.1.Fakes) 不可见。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Layout.LayoutViewRenameItemManager 生成填充码: 类型对 exported or assembly(DevExpress.XtraGrid.v8.1.Fakes) 不可见。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Layout.LayoutViewComponentsUpdateHelper 生成填充码: 类型对 exported or assembly(DevExpress.XtraGrid.v8.1.Fakes) 不可见。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Layout.Handler.MouseDragSelectionHelper+MouseDragSelectionState 生成填充码: 类型是一个枚举。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Layout.Frames.WaitCursor 生成填充码: 类型对 exported or assembly(DevExpress.XtraGrid.v8.1.Fakes) 不可见。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Layout.LayoutViewState 生成填充码: 类型是一个枚举。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Layout.ViewInfo.ILayoutViewInfoOwner 生成填充码: 类型是一个接口。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Layout.Events.LayoutViewCardStyleEventHandler 生成填充码: 类型是一个委托。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Layout.Events.LayoutViewFieldCaptionStyleEventHandler 生成填充码: 类型是一个委托。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Layout.Events.LayoutViewCustomRowCellEditEventHandler 生成填充码: 类型是一个委托。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Layout.Events.LayoutViewCardCaptionImageEventHandler 生成填充码: 类型是一个委托。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Layout.Events.LayoutViewFieldCaptionImageEventHandler 生成填充码: 类型是一个委托。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Layout.Events.LayoutViewCustomCardLayoutEventHandler 生成填充码: 类型是一个委托。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Layout.Events.LayoutViewVisibleRecordIndexChangedEventHandler 生成填充码: 类型是一个委托。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Layout.ILayoutViewDataController 生成填充码: 类型是一个接口。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Layout.DelayedOperation 生成填充码: 类型是一个委托。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Layout.LayoutItemDifferenceType 生成填充码: 类型是一个枚举。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Layout.Designer.UniqueItemNameFinder 生成填充码: 类型对 exported or assembly(DevExpress.XtraGrid.v8.1.Fakes) 不可见。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Layout.Designer.FieldPreferredWidthSetter 生成填充码: 类型对 exported or assembly(DevExpress.XtraGrid.v8.1.Fakes) 不可见。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Layout.Designer.FieldPreferredWidthResetter 生成填充码: 类型对 exported or assembly(DevExpress.XtraGrid.v8.1.Fakes) 不可见。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Layout.Designer.DesignerControlModifiedHandler 生成填充码: 类型是一个委托。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Layout.Designer.CustomizationStringID 生成填充码: 类型是一个枚举。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Layout.Designer.RuntimeCustomizationLocalizeHelper 生成填充码: 类型对 exported or assembly(DevExpress.XtraGrid.v8.1.Fakes) 不可见。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Layout.Designer.DesignerSizeGrip+GripState 生成填充码: 类型是一个枚举。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Layout.ViewInfo.ILayoutViewManager 生成填充码: 类型是一个接口。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Layout.FieldTextAlignMode 生成填充码: 类型是一个枚举。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Layout.CardsAlignment 生成填充码: 类型是一个枚举。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Layout.LayoutViewMode 生成填充码: 类型是一个枚举。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Layout.LayoutCardArrangeRule 生成填充码: 类型是一个枚举。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Layout.LayoutViewPrintOptionsFlags 生成填充码: 类型是一个枚举。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Layout.LayoutViewPrintMode 生成填充码: 类型是一个枚举。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Layout.ViewInfo.ColumnNameFinder 生成填充码: 类型对 exported or assembly(DevExpress.XtraGrid.v8.1.Fakes) 不可见。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Layout.ViewInfo.ItemNameFinder 生成填充码: 类型对 exported or assembly(DevExpress.XtraGrid.v8.1.Fakes) 不可见。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Layout.ViewInfo.FieldInfoResetter 生成填充码: 类型对 exported or assembly(DevExpress.XtraGrid.v8.1.Fakes) 不可见。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Layout.ViewInfo.ILayoutViewInfo 生成填充码: 类型是一个接口。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Layout.ViewInfo.CardCollapsingMode 生成填充码: 类型是一个枚举。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Layout.ViewInfo.NullLayoutViewInfo 生成填充码: 类型对 exported or assembly(DevExpress.XtraGrid.v8.1.Fakes) 不可见。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Layout.ViewInfo.LayoutViewHitTest 生成填充码: 类型是一个枚举。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Design.IPrintDesigner 生成填充码: 类型是一个接口。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Localization.GridStringId 生成填充码: 类型是一个枚举。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.LocalizationRes 生成填充码: 类型对 exported or assembly(DevExpress.XtraGrid.v8.1.Fakes) 不可见。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraEditors.Repository.GridLookUpViewType 生成填充码: 类型是一个枚举。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Grid.Customization.ColumnCustomizationListBox+ColumnComparer 生成填充码: 类型对 exported or assembly(DevExpress.XtraGrid.v8.1.Fakes) 不可见。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Grid.GridMenuType 生成填充码: 类型是一个枚举。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Grid.GridMenuItemClickEventHandler 生成填充码: 类型是一个委托。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Grid.DetailExpandButtonMode 生成填充码: 类型是一个枚举。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Grid.GridMultiSelectMode 生成填充码: 类型是一个枚举。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Grid.Drawing.WindowScroller+RECT 生成填充码: 类型对 exported or assembly(DevExpress.XtraGrid.v8.1.Fakes) 不可见。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Grid.Drawing.WindowScroller+ScrollWindowExFlags 生成填充码: 类型是一个枚举。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Grid.DataMasterRowEventHandler 生成填充码: 类型是一个委托。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Grid.InitNewRowEventHandler 生成填充码: 类型是一个委托。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Grid.RowHeightEventHandler 生成填充码: 类型是一个委托。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Grid.FooterCellCustomDrawEventHandler 生成填充码: 类型是一个委托。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Grid.ColumnHeaderCustomDrawEventHandler 生成填充码: 类型是一个委托。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Grid.RowIndicatorCustomDrawEventHandler 生成填充码: 类型是一个委托。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Grid.GridMenuEventHandler 生成填充码: 类型是一个委托。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Grid.MasterRowEmptyEventHandler 生成填充码: 类型是一个委托。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Grid.MasterRowCanExpandEventHandler 生成填充码: 类型是一个委托。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Grid.CustomMasterRowEventHandler 生成填充码: 类型是一个委托。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Grid.MasterRowGetLevelDefaultViewEventHandler 生成填充码: 类型是一个委托。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Grid.MasterRowGetChildListEventHandler 生成填充码: 类型是一个委托。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Grid.MasterRowGetRelationNameEventHandler 生成填充码: 类型是一个委托。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Grid.MasterRowGetRelationCountEventHandler 生成填充码: 类型是一个委托。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Grid.CellMergeEventHandler 生成填充码: 类型是一个委托。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Grid.GroupLevelStyleEventHandler 生成填充码: 类型是一个委托。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Grid.RowCellStyleEventHandler 生成填充码: 类型是一个委托。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Grid.RowStyleEventHandler 生成填充码: 类型是一个委托。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Grid.CustomRowCellEditEventHandler 生成填充码: 类型是一个委托。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Grid.FilterPopupListBoxEventHandler 生成填充码: 类型是一个委托。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Grid.CalcPreviewTextEventHandler 生成填充码: 类型是一个委托。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Grid.CustomFilterDialogEventHandler 生成填充码: 类型是一个委托。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Grid.ViewInfo.NullGridViewInfo 生成填充码: 类型对 exported or assembly(DevExpress.XtraGrid.v8.1.Fakes) 不可见。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Grid.ViewInfo.ScrollBarPresence 生成填充码: 类型是一个枚举。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Grid.ViewInfo.GridColumnInfoType 生成填充码: 类型是一个枚举。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Grid.ViewInfo.GridHitTest 生成填充码: 类型是一个枚举。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Grid.ScrollStyleFlags 生成填充码: 类型是一个枚举。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Grid.DrawFocusRectStyle 生成填充码: 类型是一个枚举。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Grid.GridState 生成填充码: 类型是一个枚举。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Grid.RowVisibleState 生成填充码: 类型是一个枚举。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Grid.GroupFooterShowMode 生成填充码: 类型是一个枚举。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Grid.NewItemRowPosition 生成填充码: 类型是一个枚举。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Views.Grid.GroupDrawMode 生成填充码: 类型是一个枚举。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.Filter.Parser.ExpressionOperators 生成填充码: 类型是一个枚举。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.SummaryItemField 生成填充码: 类型是一个枚举。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 DevExpress.XtraGrid.ShouldSerializeSummaryItemEventHandler 生成填充码: 类型是一个委托。
+C:\Users\Administrator\Desktop\ribi\Fakes\DevExpress.XtraGrid.v8.1.fakes : warning : 无法为 <PrivateImplementationDetails>{7F7D2816-D4FB-4AF9-B5F9-7E0BB84447B0} 生成填充码: 类型不受支持，因为存在于内部限制。

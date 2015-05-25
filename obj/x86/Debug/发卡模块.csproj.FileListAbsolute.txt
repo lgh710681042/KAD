@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\ribi\bin\Debug\发卡模块.exe
+C:\Users\Administrator\Desktop\ribi\bin\Debug\发卡模块.pdb
+C:\Users\Administrator\Desktop\ribi\bin\Debug\DevExpress.Data.v8.1.dll
+C:\Users\Administrator\Desktop\ribi\bin\Debug\DevExpress.Utils.v8.1.dll
+C:\Users\Administrator\Desktop\ribi\bin\Debug\DevExpress.Xpo.v8.1.dll
+C:\Users\Administrator\Desktop\ribi\bin\Debug\DevExpress.XtraEditors.v8.1.dll
+C:\Users\Administrator\Desktop\ribi\bin\Debug\DevExpress.XtraGrid.v8.1.dll
+C:\Users\Administrator\Desktop\ribi\bin\Debug\DevExpress.XtraLayout.v8.1.dll
+C:\Users\Administrator\Desktop\ribi\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Administrator\Desktop\ribi\obj\x86\Debug\发卡模块.exe
+C:\Users\Administrator\Desktop\ribi\obj\x86\Debug\发卡模块.pdb
