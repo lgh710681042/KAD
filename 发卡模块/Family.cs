@@ -459,7 +459,7 @@
             this.label5.TabIndex = 40;
             this.label5.Text = "卡号";
             base.AutoScaleDimensions = new SizeF(6f, 12f);
-            base.AutoScaleMode = AutoScaleMode.Font;
+            base.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font; 
             base.ClientSize = new Size(0x339, 0x1aa);
             base.Controls.Add(this.label5);
             base.Controls.Add(this.DisplayCardCode);

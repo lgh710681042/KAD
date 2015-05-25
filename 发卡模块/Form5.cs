@@ -1987,7 +1987,7 @@
         private void InitializeComponent()
         {
             this.components = new Container();
-            ComponentResourceManager manager = new ComponentResourceManager(typeof(Form5));
+            ComponentResourceManager resources = new ComponentResourceManager(typeof(Form5));
             this.dvwShowBlacklist = new DataGridView();
             this.Column1 = new DataGridViewCheckBoxColumn();
             this.btnAddBlacklist = new Button();
@@ -2203,7 +2203,7 @@
             this.MasterCardCalibrationTime.UseVisualStyleBackColor = true;
             this.MasterCardCalibrationTime.Click += new EventHandler(this.MasterCardCalibrationTime_Click);
             base.AutoScaleDimensions = new SizeF(6f, 12f);
-            base.AutoScaleMode = AutoScaleMode.Font;
+            base.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font; 
             base.ClientSize = new Size(0x36e, 0x1dd);
             base.Controls.Add(this.MasterCardCalibrationTime);
             base.Controls.Add(this.button3);
@@ -2233,8 +2233,8 @@
             base.Controls.Add(this.btnDelBlack);
             base.Controls.Add(this.btnAddBlacklist);
             base.Controls.Add(this.dvwShowBlacklist);
-            base.FormBorderStyle = FormBorderStyle.FixedSingle;
-            base.Icon = (Icon) manager.GetObject("$this.Icon");
+            base.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            base.Icon = (Icon) resources.GetObject("$this.Icon");
             base.MaximizeBox = false;
             base.Name = "Form5";
             base.ShowIcon = false;

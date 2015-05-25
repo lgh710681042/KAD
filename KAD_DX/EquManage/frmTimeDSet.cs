@@ -408,14 +408,14 @@
             this.label10.TabIndex = 0x13;
             this.label10.Text = "时间段1默认为禁止进入，时间段2默认为允许进入";
             base.AutoScaleDimensions = new SizeF(6f, 12f);
-            base.AutoScaleMode = AutoScaleMode.Font;
+            base.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font; 
             base.ClientSize = new Size(0x241, 0x187);
             base.Controls.Add(this.label10);
             base.Controls.Add(this.groupBox2);
             base.Controls.Add(this.groupBox1);
             base.Controls.Add(this.label1);
             base.Controls.Add(this.cboxTimeD);
-            base.FormBorderStyle = FormBorderStyle.FixedDialog;
+            base.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
             base.Icon = (Icon) manager.GetObject("$this.Icon");
             base.Name = "frmTimeDSet";
             base.ShowIcon = false;

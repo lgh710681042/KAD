@@ -473,7 +473,7 @@
             this.chkSun.ValueChecked = "Y";
             this.chkSun.ValueUnchecked = "N";
             this.imageCollection2.ImageStream = (ImageCollectionStreamer) manager.GetObject("imageCollection2.ImageStream");
-            this.panelControl1.AutoSizeMode = AutoSizeMode.GrowOnly;
+            this.panelControl1.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowOnly;
             this.panelControl1.BorderStyle = BorderStyles.NoBorder;
             this.panelControl1.Controls.Add(this.btnExcelOut);
             this.panelControl1.Controls.Add(this.btnSpeicalTime);
@@ -690,7 +690,7 @@
             this.txtStart1.AutoHeight = false;
             this.txtStart1.MaxLength = 5;
             this.txtStart1.Name = "txtStart1";
-            this.panelControl2.AutoSizeMode = AutoSizeMode.GrowOnly;
+            this.panelControl2.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowOnly;
             this.panelControl2.Controls.Add(this.imgList);
             this.panelControl2.Dock = DockStyle.Top;
             this.panelControl2.Location = new Point(0, 50);
@@ -707,7 +707,7 @@
             this.imgList.TabIndex = 6;
             this.imageCollection1.ImageSize = new Size(0x20, 0x20);
             this.imageCollection1.ImageStream = (ImageCollectionStreamer) manager.GetObject("imageCollection1.ImageStream");
-            this.panelControl3.AutoSizeMode = AutoSizeMode.GrowOnly;
+            this.panelControl3.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowOnly;
             this.panelControl3.Controls.Add(this.GridControl1);
             this.panelControl3.Dock = DockStyle.Top;
             this.panelControl3.Location = new Point(0, 0x83);
@@ -715,7 +715,7 @@
             this.panelControl3.Size = new Size(890, 0x15d);
             this.panelControl3.TabIndex = 10;
             this.timeReceive.Tick += new EventHandler(this.timeReceive_Tick);
-            this.panelControl4.AutoSizeMode = AutoSizeMode.GrowOnly;
+            this.panelControl4.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowOnly;
             this.panelControl4.Controls.Add(this.GridControl2);
             this.panelControl4.Dock = DockStyle.Fill;
             this.panelControl4.Location = new Point(0, 480);
@@ -750,7 +750,7 @@
             this.colResult.Visible = true;
             this.colResult.VisibleIndex = 3;
             base.AutoScaleDimensions = new SizeF(6f, 12f);
-            base.AutoScaleMode = AutoScaleMode.Font;
+            base.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font; 
             base.ClientSize = new Size(890, 620);
             base.Controls.Add(this.panelControl4);
             base.Controls.Add(this.panelControl3);

@@ -3413,11 +3413,10 @@
             this.数据清理ToolStripMenuItem.Text = "数据清理";
             this.数据清理ToolStripMenuItem.Click += new EventHandler(this.数据清理ToolStripMenuItem_Click);
             base.AutoScaleDimensions = new SizeF(6f, 12f);
-            base.AutoScaleMode = AutoScaleMode.Font;
             base.ClientSize = new Size(0x350, 0x219);
             base.Controls.Add(this.tabControl1);
             base.Controls.Add(this.menuStrip2);
-            base.FormBorderStyle = FormBorderStyle.FixedSingle;
+            base.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             base.Icon = (Icon) manager.GetObject("$this.Icon");
             base.MaximizeBox = false;
             base.Name = "Form1";

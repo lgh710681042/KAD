@@ -25,11 +25,11 @@
 
         private void InitializeComponent()
         {
-            ComponentResourceManager manager = new ComponentResourceManager(typeof(frmBusy));
+            ComponentResourceManager resources = new ComponentResourceManager(typeof(frmBusy));
             base.SuspendLayout();
             base.AutoScaleDimensions = new SizeF(6f, 12f);
-            base.AutoScaleMode = AutoScaleMode.Font;
-            this.BackgroundImage = (Image) manager.GetObject("$this.BackgroundImage");
+            base.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font; 
+            this.BackgroundImage = (Image) resources.GetObject("$this.BackgroundImage");
             this.BackgroundImageLayout = ImageLayout.Stretch;
             base.ClientSize = new Size(0x214, 0x119);
             base.FormBorderStyle = FormBorderStyle.None;

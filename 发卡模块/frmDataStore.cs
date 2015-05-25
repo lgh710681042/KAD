@@ -99,7 +99,7 @@
 
         private void InitializeComponent()
         {
-            ComponentResourceManager manager = new ComponentResourceManager(typeof(frmDataStore));
+            ComponentResourceManager resources = new ComponentResourceManager(typeof(frmDataStore));
             this.groupBox1 = new GroupBox();
             this.btnpart = new Button();
             this.txtpath = new TextBox();
@@ -151,13 +151,13 @@
             this.btnClose.Click += new EventHandler(this.btnClose_Click);
             this.fbDialogFile.SelectedPath = @"D:\";
             base.AutoScaleDimensions = new SizeF(6f, 12f);
-            base.AutoScaleMode = AutoScaleMode.Font;
+            base.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font; 
             base.ClientSize = new Size(0x15f, 0x93);
             base.Controls.Add(this.btnClose);
             base.Controls.Add(this.btnDStore);
             base.Controls.Add(this.groupBox1);
-            base.FormBorderStyle = FormBorderStyle.FixedSingle;
-            base.Icon = (Icon) manager.GetObject("$this.Icon");
+            base.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            base.Icon = (Icon) resources.GetObject("$this.Icon");
             base.MaximizeBox = false;
             base.Name = "frmDataStore";
             base.ShowIcon = false;

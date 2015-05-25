@@ -65,7 +65,7 @@
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new EventHandler(this.button1_Click);
             base.AutoScaleDimensions = new SizeF(6f, 12f);
-            base.AutoScaleMode = AutoScaleMode.Font;
+            //base.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font; 
             base.ClientSize = new Size(0xb6, 0x60);
             base.Controls.Add(this.button1);
             base.Controls.Add(this.DeviceDateTime);

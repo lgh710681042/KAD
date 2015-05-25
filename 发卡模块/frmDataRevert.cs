@@ -201,7 +201,7 @@
 
         private void InitializeComponent()
         {
-            ComponentResourceManager manager = new ComponentResourceManager(typeof(frmDataRevert));
+            ComponentResourceManager resources = new ComponentResourceManager(typeof(frmDataRevert));
             this.groupBox2 = new GroupBox();
             this.label2 = new Label();
             this.button1 = new Button();
@@ -284,14 +284,14 @@
             this.label3.Text = "正在还原数据....";
             this.label3.Visible = false;
             base.AutoScaleDimensions = new SizeF(6f, 12f);
-            base.AutoScaleMode = AutoScaleMode.Font;
+            base.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font; 
             base.ClientSize = new Size(0x16c, 0xab);
             base.Controls.Add(this.label3);
             base.Controls.Add(this.btnExit);
             base.Controls.Add(this.btnDRevert);
             base.Controls.Add(this.groupBox2);
-            base.FormBorderStyle = FormBorderStyle.FixedSingle;
-            base.Icon = (Icon) manager.GetObject("$this.Icon");
+            base.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            base.Icon = (Icon) resources.GetObject("$this.Icon");
             base.MaximizeBox = false;
             base.Name = "frmDataRevert";
             base.ShowIcon = false;

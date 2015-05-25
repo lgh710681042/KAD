@@ -64,7 +64,7 @@
 
         private void InitializeComponent()
         {
-            ComponentResourceManager manager = new ComponentResourceManager(typeof(Form7));
+            ComponentResourceManager resources = new ComponentResourceManager(typeof(Form7));
             this.dataGridView1 = new DataGridView();
             ((ISupportInitialize) this.dataGridView1).BeginInit();
             base.SuspendLayout();
@@ -79,11 +79,11 @@
             this.dataGridView1.Size = new Size(0x158, 0xb6);
             this.dataGridView1.TabIndex = 0;
             base.AutoScaleDimensions = new SizeF(6f, 12f);
-            base.AutoScaleMode = AutoScaleMode.Font;
+            base.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font; 
             base.ClientSize = new Size(0x158, 0xb6);
             base.Controls.Add(this.dataGridView1);
-            base.FormBorderStyle = FormBorderStyle.FixedSingle;
-            base.Icon = (Icon) manager.GetObject("$this.Icon");
+            base.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            base.Icon = (Icon) resources.GetObject("$this.Icon");
             base.MaximizeBox = false;
             base.Name = "Form7";
             base.ShowIcon = false;

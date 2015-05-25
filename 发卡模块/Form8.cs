@@ -105,7 +105,7 @@
 
         private void InitializeComponent()
         {
-            ComponentResourceManager manager = new ComponentResourceManager(typeof(Form8));
+            ComponentResourceManager resources = new ComponentResourceManager(typeof(Form8));
             this.label1 = new Label();
             this.label2 = new Label();
             this.txtpassword = new TextBox();
@@ -153,7 +153,7 @@
             this.cbxName.TabIndex = 6;
             base.AcceptButton = this.btnlogin;
             base.AutoScaleDimensions = new SizeF(6f, 12f);
-            base.AutoScaleMode = AutoScaleMode.Font;
+            base.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font; 
             base.CancelButton = this.btnCancel;
             base.ClientSize = new Size(0x14d, 0xa3);
             base.Controls.Add(this.cbxName);
@@ -162,8 +162,8 @@
             base.Controls.Add(this.txtpassword);
             base.Controls.Add(this.label2);
             base.Controls.Add(this.label1);
-            base.FormBorderStyle = FormBorderStyle.FixedSingle;
-            base.Icon = (Icon) manager.GetObject("$this.Icon");
+            base.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            base.Icon = (Icon) resources.GetObject("$this.Icon");
             base.MaximizeBox = false;
             base.Name = "Form8";
             base.ShowIcon = false;

@@ -227,7 +227,7 @@
 
         private void InitializeComponent()
         {
-            ComponentResourceManager manager = new ComponentResourceManager(typeof(OperatorUserManagement));
+            ComponentResourceManager resources = new ComponentResourceManager(typeof(OperatorUserManagement));
             this.btnAddUser = new Button();
             this.txtName = new TextBox();
             this.dataGridView1 = new DataGridView();
@@ -287,14 +287,14 @@
             this.toolStripButton1.Text = "增加";
             this.toolStripButton1.TextImageRelation = TextImageRelation.ImageAboveText;
             this.toolStripButton1.Click += new EventHandler(this.toolStripButton1_Click);
-            this.toolStripButton2.Image = (Image) manager.GetObject("toolStripButton2.Image");
+            this.toolStripButton2.Image = (Image) resources.GetObject("toolStripButton2.Image");
             this.toolStripButton2.ImageTransparentColor = Color.Magenta;
             this.toolStripButton2.Name = "toolStripButton2";
             this.toolStripButton2.Size = new Size(0x24, 0x25);
             this.toolStripButton2.Text = "修改";
             this.toolStripButton2.TextImageRelation = TextImageRelation.ImageAboveText;
             this.toolStripButton2.Click += new EventHandler(this.toolStripButton2_Click);
-            this.toolStripButton3.Image = (Image) manager.GetObject("toolStripButton3.Image");
+            this.toolStripButton3.Image = (Image) resources.GetObject("toolStripButton3.Image");
             this.toolStripButton3.ImageTransparentColor = Color.Magenta;
             this.toolStripButton3.Name = "toolStripButton3";
             this.toolStripButton3.Size = new Size(0x24, 0x25);
@@ -379,7 +379,7 @@
             this.ComboBox_UserPermissions.TabIndex = 12;
             this.ComboBox_UserPermissions.Visible = false;
             base.AutoScaleDimensions = new SizeF(6f, 12f);
-            base.AutoScaleMode = AutoScaleMode.Font;
+            base.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font; 
             base.ClientSize = new Size(0x1ba, 0x107);
             base.Controls.Add(this.ComboBox_UserPermissions);
             base.Controls.Add(this.Label_UserPermissions);
@@ -394,8 +394,8 @@
             base.Controls.Add(this.dataGridView1);
             base.Controls.Add(this.txtName);
             base.Controls.Add(this.btnAddUser);
-            base.FormBorderStyle = FormBorderStyle.FixedSingle;
-            base.Icon = (Icon) manager.GetObject("$this.Icon");
+            base.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            base.Icon = (Icon) resources.GetObject("$this.Icon");
             base.MaximizeBox = false;
             base.Name = "Form9";
             base.ShowIcon = false;

@@ -463,7 +463,7 @@
             DataGridViewCellStyle style = new DataGridViewCellStyle();
             DataGridViewCellStyle style2 = new DataGridViewCellStyle();
             DataGridViewCellStyle style3 = new DataGridViewCellStyle();
-            ComponentResourceManager manager = new ComponentResourceManager(typeof(Form3));
+            ComponentResourceManager resources = new ComponentResourceManager(typeof(Form3));
             this.listBox1 = new ListBox();
             this.listBox2 = new ListBox();
             this.btnNewGroup = new Button();
@@ -664,7 +664,7 @@
             this.dvwViewGroups.TabIndex = 0;
             this.dvwViewGroups.Click += new EventHandler(this.dvwViewGroups_Click);
             base.AutoScaleDimensions = new SizeF(6f, 12f);
-            base.AutoScaleMode = AutoScaleMode.Font;
+            base.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font; 
             base.ClientSize = new Size(0x1bb, 0x11b);
             base.Controls.Add(this.panel1);
             base.Controls.Add(this.btnRefresh);
@@ -679,8 +679,8 @@
             base.Controls.Add(this.btnNewGroup);
             base.Controls.Add(this.listBox2);
             base.Controls.Add(this.listBox1);
-            base.FormBorderStyle = FormBorderStyle.FixedSingle;
-            base.Icon = (Icon) manager.GetObject("$this.Icon");
+            base.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            base.Icon = (Icon) resources.GetObject("$this.Icon");
             base.MaximizeBox = false;
             base.Name = "Form3";
             base.ShowIcon = false;

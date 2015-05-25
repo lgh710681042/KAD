@@ -175,7 +175,7 @@
 
         private void InitializeComponent()
         {
-            ComponentResourceManager manager = new ComponentResourceManager(typeof(frmAddEqu));
+            ComponentResourceManager resources = new ComponentResourceManager(typeof(frmAddEqu));
             this.txtAddress = new RepositoryItemTextEdit();
             this.txtLocation = new RepositoryItemMemoEdit();
             this.cboxFloor = new RepositoryItemComboBox();
@@ -370,11 +370,11 @@
             this.repositoryItemMemoEdit3.LinesCount = 5;
             this.repositoryItemMemoEdit3.Name = "repositoryItemMemoEdit3";
             base.AutoScaleDimensions = new SizeF(6f, 12f);
-            base.AutoScaleMode = AutoScaleMode.Font;
+            base.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font; 
             base.ClientSize = new Size(0x2b1, 0x1b4);
             base.Controls.Add(this.GridControl1);
             base.Controls.Add(this.panelControl1);
-            base.Icon = (Icon) manager.GetObject("$this.Icon");
+            base.Icon = (Icon) resources.GetObject("$this.Icon");
             base.Name = "frmAddEqu";
             base.ShowIcon = false;
             base.StartPosition = FormStartPosition.CenterScreen;

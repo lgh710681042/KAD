@@ -234,7 +234,7 @@
             DataGridViewCellStyle style = new DataGridViewCellStyle();
             DataGridViewCellStyle style2 = new DataGridViewCellStyle();
             DataGridViewCellStyle style3 = new DataGridViewCellStyle();
-            ComponentResourceManager manager = new ComponentResourceManager(typeof(Form4));
+            ComponentResourceManager resources = new ComponentResourceManager(typeof(Form4));
             this.dvwviewCardNunber = new DataGridView();
             this.contextMenuStrip1 = new ContextMenuStrip(this.components);
             this.查看设备编码ToolStripMenuItem = new ToolStripMenuItem();
@@ -446,7 +446,7 @@
             this.btnCancel.Click += new EventHandler(this.btnCancel_Click);
             this.saveFileDialog1.Filter = "*.xlsx|*.xlsx";
             base.AutoScaleDimensions = new SizeF(6f, 12f);
-            base.AutoScaleMode = AutoScaleMode.Font;
+            base.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font; 
             base.ClientSize = new Size(0x21d, 0x13a);
             base.Controls.Add(this.btnCancel);
             base.Controls.Add(this.label5);
@@ -461,8 +461,8 @@
             base.Controls.Add(this.btnUpdate);
             base.Controls.Add(this.toolStrip1);
             base.Controls.Add(this.dvwviewCardNunber);
-            base.FormBorderStyle = FormBorderStyle.FixedSingle;
-            base.Icon = (Icon) manager.GetObject("$this.Icon");
+            base.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            base.Icon = (Icon) resources.GetObject("$this.Icon");
             base.MaximizeBox = false;
             base.Name = "Form4";
             base.ShowIcon = false;

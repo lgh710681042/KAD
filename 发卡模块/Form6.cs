@@ -28,7 +28,7 @@
         {
             base.SuspendLayout();
             base.AutoScaleDimensions = new SizeF(6f, 12f);
-            base.AutoScaleMode = AutoScaleMode.Font;
+            base.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font; 
             this.BackgroundImage = Resources.门禁管理渐变1;
             base.ClientSize = new Size(0x1ee, 0xef);
             base.FormBorderStyle = FormBorderStyle.None;

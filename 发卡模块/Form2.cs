@@ -195,7 +195,7 @@
         private void InitializeComponent()
         {
             this.components = new Container();
-            ComponentResourceManager manager = new ComponentResourceManager(typeof(Form2));
+            ComponentResourceManager resources = new ComponentResourceManager(typeof(Form2));
             this.txtNumber = new TextBox();
             this.label1 = new Label();
             this.btnSave = new Button();
@@ -242,15 +242,15 @@
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new EventHandler(this.button1_Click_1);
             base.AutoScaleDimensions = new SizeF(6f, 12f);
-            base.AutoScaleMode = AutoScaleMode.Font;
+            base.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font; 
             base.ClientSize = new Size(0x162, 0x120);
             base.Controls.Add(this.button1);
             base.Controls.Add(this.dvwViewAddress);
             base.Controls.Add(this.btnSave);
             base.Controls.Add(this.label1);
             base.Controls.Add(this.txtNumber);
-            base.FormBorderStyle = FormBorderStyle.FixedSingle;
-            base.Icon = (Icon) manager.GetObject("$this.Icon");
+            base.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            base.Icon = (Icon) resources.GetObject("$this.Icon");
             base.MaximizeBox = false;
             base.Name = "Form2";
             base.ShowIcon = false;
